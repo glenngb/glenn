@@ -15,7 +15,7 @@ Backend:
 
 Node.js, Express.js , PHP
 
-Bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB)
+Bases de datos relacionales (PostgreSQL, MySQL) 
 
 Herramientas y metodologías:
 
